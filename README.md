@@ -1,1 +1,1 @@
-# PyTorch-Practice
+# python-for-ai
